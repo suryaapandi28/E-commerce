@@ -3,7 +3,7 @@ package postgres
 import (
 	"fmt"
 
-	"github.com/suryaapandi28/dev_kredit_plus/configs"
+	"github.com/suryaapandi28/E-commerce/configs"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

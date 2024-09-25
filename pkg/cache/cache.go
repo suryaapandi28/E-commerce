@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/redis/go-redis/v9"
-	"github.com/suryaapandi28/dev_kredit_plus/configs"
+	"github.com/suryaapandi28/E-commerce/configs"
 )
 
 func InitCache(config *configs.RedisConfig) *redis.Client {
